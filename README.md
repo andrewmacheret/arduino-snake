@@ -1,2 +1,5 @@
-# arduino-snake
- Snake on an Arduino
+# Snake on an Arduino
+
+With a really basic AI.
+
+Plays forever.
